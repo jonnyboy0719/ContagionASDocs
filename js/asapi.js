@@ -129,7 +129,7 @@ function LoadASAPI() {
 		dateloc.appendChild( document.createTextNode( txt ) );
 		
 		$('head').append( '<meta name="type" content="article">' );
-		$('head').append( '<meta name="url" content="http://contagion-game.com/api/">' );
-		$('head').append( '<meta name="image" content="http://contagion-game.com/api/' + data['doc_logo'] + '">' );
+		$('head').append( '<meta name="url" content="https://jonnyboy0719.github.io/ContagionASDocs/">' );
+		$('head').append( '<meta name="image" content="https://jonnyboy0719.github.io/ContagionASDocs/' + data['doc_logo'] + '">' );
 	});
 }
