@@ -1,0 +1,73 @@
+{
+	"functions":
+	{
+		"string":"const string",
+		"int":"int",
+		"int32":"int32",
+		"uint":"uint",
+		"uint64":"uint64",
+		"float":"float",
+		"bool":"bool",
+		"void":"void"
+	},
+	"classes":
+	{
+		"class":"@",
+		"enum":"null"
+	},
+	"functions_classes":
+	{
+		"CGameTrace":"CGameTrace",
+		"CTakeDamageInfo":"CTakeDamageInfo",
+		"HudTextParams":"HudTextParams",
+		"Vector":"Vector",
+		"Vector2D":"Vector2D",
+		"QAngle":"QAngle",
+		"array_float":"array&lt;</span><span style=\"color:#74b220\">float</span><span class=\"function\">&gt;",
+		"array_int":"array&lt;</span><span style=\"color:#74b220\">int</span><span class=\"function\">&gt;",
+		"array_bool":"array&lt;</span><span style=\"color:#74b220\">bool</span><span class=\"function\">&gt;",
+		"array_string":"array&lt;</span><span style=\"color:#74b220\">string</span><span class=\"function\">&gt;",
+		"MoveType_t":"MoveType_t",
+		"ObjectiveState_t":"ObjectiveState_t",
+		"RenderMode":"RenderMode",
+		"RenderFX":"RenderFX",
+		"MoveType":"MoveType",
+		"WaterLevel":"WaterLevel",
+		"NetData":"NetData",
+		"CEntityData":"CEntityData",
+		"Color":"Color"
+	},
+	"list_types":
+	{
+		"class":"Classes",
+		"enum":"Enums",
+		"event":"Event Hooks",
+		"namespace":"Namespaces",
+		"void":"Functions",
+		"object":"Object Entities",
+		"string":"Strings",
+		"bool":"Booleans",
+		"int":"Intergers",
+		"float":"Floats",
+		"Vector":"Vectors",
+		"QAngle":"QAngles",
+		"array_float":"Float Arrays",
+		"array_int":"Interger Arrays",
+		"array_bool":"Booleans Arrays",
+		"array_string":"String Arrays"
+	},
+	"return":
+	{
+		"preset_return_bool":"Returns a boolean",
+		"preset_return_int":"Returns an interger",
+		"preset_return_uint":"Returns an unnsigned interger",
+		"preset_return_string":"Returns a string",
+		"preset_return_float":"Returns a float"
+	},
+	"boxtype":
+	{
+		"warning":"Warning",
+		"custom":"Warning",
+		"deprecated":"Deprecated"
+	}
+}

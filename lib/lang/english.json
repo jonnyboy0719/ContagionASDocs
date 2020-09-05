@@ -1,0 +1,31 @@
+{
+	"language":
+	{
+		"english":
+		{
+			"err_msg_01":			"The %1% \"%2%\" does not exist.",
+			"err_msg_02":			"This %1% does not exist.",
+			"infobox_info":			"Info",
+			"infobox_warning":		"Warning",
+			"infobox_deprecated":	"Deprecated",
+			"class":				"Classes",
+			"enum":					"Enums",
+			"event":				"Event Hooks",
+			"namespace":			"Namespaces",
+			"void":					"Functions",
+			"object":				"Object Entities",
+			"string":				"Strings",
+			"bool": 				"Booleans",
+			"int":					"Intergers",
+			"float":				"Floats",
+			"Vector":				"Vectors",
+			"QAngle":				"QAngles",
+			"array_float":			"Float Arrays",
+			"array_int":			"Interger Arrays",
+			"array_bool":			"Booleans Arrays",
+			"array_string":			"String Arrays",
+			"func_desc":			"Description",
+			"func_params":			"Parameters"
+		}
+	}
+}
