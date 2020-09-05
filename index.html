@@ -162,9 +162,9 @@
 				}
 				
 				if ( window.location.hash === '#home' || window.location.hash === '' )
-					$('.basecontent').load("pages/home.php");
+					$('.basecontent').html("*Homepage*");
 				else
-					$('.basecontent').load('pages/reader.php?' + location1);
+					$('.basecontent').html("location: " + location1);
 			}
 			
 			const ps = new PerfectScrollbar('.sidebar', {
